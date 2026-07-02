@@ -1,0 +1,2 @@
+DOWNLOAD_LINK=https://tmpfiles.org/dl/w0wNX28bAAbI/flixbuzz_v1.0.apk
+LANDING_PAGE=https://tmpfiles.org/w0wNX28bAAbI/flixbuzz_v1.0.apk

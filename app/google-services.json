@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277480415990",
+    "project_id": "flimshare-f6b15",
+    "storage_bucket": "flimshare-f6b15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277480415990:android:86b7d819bbef35e32282d7",
+        "android_client_info": {
+          "package_name": "com.aistudio.flimshare.vbytkq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277480415990-tllah0mak8dbkj6eu94m0jmqonld7d7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.flimshare.vbytkq",
+            "certificate_hash": "2a97f211e97b27a3e5a694dcd8e13b823df5c87a"
+          }
+        },
+        {
+          "client_id": "277480415990-nr8r78ghqsuldd2q74nf4rlcr2rr4g4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinWwNB3ZHl7IsWo7cRu6iJKLPUQkFtAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277480415990-nr8r78ghqsuldd2q74nf4rlcr2rr4g4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

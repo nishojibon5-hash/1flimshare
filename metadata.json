@@ -1,0 +1,6 @@
+{
+  "name": "Flimshare",
+  "description": "Flimshare is a premium public OTT movie streaming platform utilizing Cloudflare CDN Worker Proxies for Google Drive stream acceleration and automatic pre-roll video ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
